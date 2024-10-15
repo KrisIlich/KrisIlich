@@ -2,16 +2,18 @@
 
 ## Junior Software Engineer
 
-### 👨‍💻 Software Engineer Projects:
+###🖥️ Software Engineer Projects:
 - **Javascript**
+  - [Custom GPT Smart Chatbot Microservice](https://kilichpro.com/software/2024/6/5/9pacvqrfbu188wz5ww8bsc91olbpb5)
   - [Play the Text-Based RPG](https://krisilich.github.io/textbasedRPG/)
-  -
-  - 
-  - 
+  
 
 - **☕ Java**
   - [Android App Video](https://kilichpro.com/software/2024/3/11/3evs32sm5kfiby7rzebpr248714b11)
       + [Android App Repository](https://github.com/KrisIlich/Vacation-Scheduler-Android-App)
+
+- ** 🍎 Swift**
+  -  [iOS Ecommerce UI- First Looks](https://kilichpro.com/software/heirloom-early-stages-swift-ui-demo)
 
 
 ###📄 Certifications
@@ -24,7 +26,7 @@
 - ITIL4 Foundation
 - AWS Cloud Practitioner
 
-### 🤳 Connect with me:
+###🔗 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/kristopher-ilich/)
 - [Personal Website](www.kilichpro.com/software)
 - [Email Me](mailto:kristopherilich@gmail.com)
