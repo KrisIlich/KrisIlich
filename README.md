@@ -8,11 +8,11 @@
   - [Play the Text-Based RPG](https://krisilich.github.io/textbasedRPG/)
   
 
-- **☕ Java **
+- **☕ Java**
   - [Android App Video](https://kilichpro.com/software/2024/3/11/3evs32sm5kfiby7rzebpr248714b11)
       + [Android App Repository](https://github.com/KrisIlich/Vacation-Scheduler-Android-App)
 
-- ** 🍎 Swift **
+- **🍎 Swift**
   -  [iOS Ecommerce UI- First Looks](https://kilichpro.com/software/heirloom-early-stages-swift-ui-demo)
 
 
