@@ -1,8 +1,8 @@
-#Hi, I'm Kristopher!
+# Hi, I'm Kristopher!
 
-##Junior Software Engineer
+## Junior Software Engineer
 
-###🖥️ Software Engineer Projects:
+### 🖥️ Software Engineer Projects:
 - **Javascript**
   - [Custom GPT Smart Chatbot Microservice](https://kilichpro.com/software/2024/6/5/9pacvqrfbu188wz5ww8bsc91olbpb5)
   - [Play the Text-Based RPG](https://krisilich.github.io/textbasedRPG/)
@@ -16,7 +16,7 @@
   -  [iOS Ecommerce UI- First Looks](https://kilichpro.com/software/heirloom-early-stages-swift-ui-demo)
 
 
-###📄 Certifications
+### 📄 Certifications
 - Microsoft .Net Certification - Freecodecamp / Microsoft
 - Interactive Web Design Certification - Freecodecamp
 - CompTIA A+
@@ -26,7 +26,7 @@
 - ITIL4 Foundation
 - AWS Cloud Practitioner
 
-###🔗 Connect with me:
+### 🔗 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/kristopher-ilich/)
 - [Personal Website](www.kilichpro.com/software)
 - [Email Me](mailto:kristopherilich@gmail.com)
