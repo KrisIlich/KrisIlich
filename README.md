@@ -1,6 +1,6 @@
-# Hi, I'm Kristopher!
+#Hi, I'm Kristopher!
 
-## Junior Software Engineer
+##Junior Software Engineer
 
 ###🖥️ Software Engineer Projects:
 - **Javascript**
