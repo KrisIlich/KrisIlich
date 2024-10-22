@@ -32,5 +32,5 @@
 
 ### 🔗 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/kristopher-ilich/)
-- [Personal Website](www.kilichpro.com/software/)
+- [Personal Website](https://www.kilichpro.com/software/)
 - [Email Me](mailto:kristopherilich@gmail.com)
