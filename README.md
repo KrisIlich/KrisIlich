@@ -11,7 +11,7 @@
   - [Play the Text-Based RPG](https://krisilich.github.io/textbasedRPG/)
   
 
-- *<img src="https://aety.io/wp-content/uploads/2016/11/java-logo-vector.png" alt="Project Demo" width="40" height="40" /> Java**
+- **<img src="https://aety.io/wp-content/uploads/2016/11/java-logo-vector.png" alt="Project Demo" width="40" height="40" /> Java**
   - [Android App Video](https://kilichpro.com/software/2024/3/11/3evs32sm5kfiby7rzebpr248714b11)
 
 - **🍎 Swift**
