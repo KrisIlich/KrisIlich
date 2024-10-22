@@ -15,7 +15,7 @@
   - [Android App Video](https://kilichpro.com/software/2024/3/11/3evs32sm5kfiby7rzebpr248714b11)
 
 
-- **<img src="https://pngimg.com/uploads/apple_logo/small/apple_logo_PNG19673.png" alt="Project Demo" width="20" height="25" style="vertical-align: bottom;" /> Swift iOS**
+- **<img src="https://pngimg.com/uploads/apple_logo/small/apple_logo_PNG19673.png" alt="Project Demo" width="20" height="25" style="vertical-align: bottom;" />  Swift iOS**
   - [iOS Ecommerce UI - First Looks](https://kilichpro.com/software/heirloom-early-stages-swift-ui-demo)
 
 
