@@ -14,7 +14,7 @@
 - **<img src="https://aety.io/wp-content/uploads/2016/11/java-logo-vector.png" alt="Project Demo" width="40" height="40" />Java**
   - [Android App Video](https://kilichpro.com/software/2024/3/11/3evs32sm5kfiby7rzebpr248714b11)
 
-- **<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAgxcDKGGw3-BIE44vlK3FUTPq_d417Ip3Vw&s" alt="Project Demo" width="20" height="20" /> Swift iOS**
+- **<img src="https://static.vecteezy.com/system/resources/thumbnails/019/766/191/small/apple-logo-apple-icon-transparent-free-png.png" alt="Project Demo" width="20" height="20" /> Swift iOS**
   -  [iOS Ecommerce UI- First Looks](https://kilichpro.com/software/heirloom-early-stages-swift-ui-demo)
 
 
