@@ -8,7 +8,7 @@
   - [Simple Calorie Counter App](https://krisilich.github.io/CalorieCounter/)
       + [Repository](https://github.com/KrisIlich/CalorieCounter)
   - [Play the Text-Based RPG](https://krisilich.github.io/textbasedRPG/)
-      + [Repository]([https://github.com/KrisIlich](https://github.com/KrisIlich/textbasedRPG))
+      + [Repository](https://github.com/KrisIlich](https://github.com/KrisIlich/textbasedRPG))
   
 
 - **☕ Java**
