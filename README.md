@@ -6,12 +6,14 @@
 - **Javascript**
   - [Custom GPT Smart Chatbot Microservice](https://kilichpro.com/software/2024/6/5/9pacvqrfbu188wz5ww8bsc91olbpb5)
   - [Simple Calorie Counter App](https://krisilich.github.io/CalorieCounter/)
+      + [Repository](https://github.com/KrisIlich/CalorieCounter)
   - [Play the Text-Based RPG](https://krisilich.github.io/textbasedRPG/)
+      + [Repository]([https://github.com/KrisIlich](https://github.com/KrisIlich/textbasedRPG))
   
 
 - **☕ Java**
   - [Android App Video](https://kilichpro.com/software/2024/3/11/3evs32sm5kfiby7rzebpr248714b11)
-      + [Android App Repository](https://github.com/KrisIlich/Vacation-Scheduler-Android-App)
+      + [Repository](https://github.com/KrisIlich/Vacation-Scheduler-Android-App)
 
 - **🍎 Swift**
   -  [iOS Ecommerce UI- First Looks](https://kilichpro.com/software/heirloom-early-stages-swift-ui-demo)
