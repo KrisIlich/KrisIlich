@@ -3,7 +3,7 @@
 ## Junior Software Engineer
 
 ### 🖥️ Software Engineer Project DEMOS:
-- **![image](https://github.com/user-attachments/assets/e1f41e72-16ea-45c5-9436-b025e062b47a)
+- **![image width="20" height="20"](https://github.com/user-attachments/assets/e1f41e72-16ea-45c5-9436-b025e062b47a)
 Javascript**
   - [Custom GPT Smart Chatbot Microservice](https://kilichpro.com/software/2024/6/5/9pacvqrfbu188wz5ww8bsc91olbpb5)
   - [Simple Calorie Counter App](https://krisilich.github.io/CalorieCounter/)
