@@ -22,7 +22,8 @@
 
 
 ### 📄 Certifications
-- Microsoft .Net Certification - Freecodecamp / Microsoft
+- JavaScript Algorithms and Data Structures - freeCodeCamp
+- Microsoft .Net Certification - freeCodeCamp / Microsoft
 - Interactive Web Design Certification - Freecodecamp
 - CompTIA A+
 - CompTIA Network+
