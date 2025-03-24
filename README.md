@@ -8,7 +8,7 @@
 - **<img src="https://github.com/user-attachments/assets/e1f41e72-16ea-45c5-9436-b025e062b47a" alt="Project Demo" width="20" height="20" /> - Javascript**
   - [Software Website](https://kristopherilich.com)
   - [Custom GPT Smart Chatbot Microservice](https://kristopherilich.com)
-  - [Calorie Counter Application]([(https://kristopherilich.com)])
+  - [Calorie Counter Application](https://kristopherilich.com)
   - [Palindrome Detector](https://krisilich.github.io/PalindromeChecker/)
   - [Play the Text-Based RPG](https://krisilich.github.io/textbasedRPG/)
   
